@@ -19,8 +19,13 @@
              <field name="tag_ids" position="after">
                  <field name="descripcion_oportunidad"/>
                  <field name="usuario"/>
+                 <field name="sector"/>
+                 <field name="product_id"/>
+                 <field name="marca"/>
+                 <field name="costo"/>
              </field>
         </field>
     </record>
+
 
 </odoo>
